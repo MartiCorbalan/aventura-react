@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.aventura {
+  height: 850px;
+  width: 800px;
+  background-color: gray;
+  margin: auto;
+}

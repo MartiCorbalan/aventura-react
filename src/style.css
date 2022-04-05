@@ -1,0 +1,50 @@
+.general {
+  display: flex;
+}
+.tot {
+  background-color: rgb(38, 98, 150);
+  width: 400px;
+  height: 400px;
+}
+
+.historia {
+  width: 400px;
+  height: 400px;
+  background-color: aqua;
+}
+.pagina {
+  background: red;
+  width: 400px;
+  height: 100px;
+  margin: auto;
+}
+.box {
+  width: 60px;
+  height: 50px;
+  background-color: blue;
+  margin: auto;
+}
+.resultat {
+  width: 100%;
+  height: 200px;
+  background-color: brown;
+}
+.cami {
+  width: 100%;
+  height: 200px;
+  background-color: rgb(98, 158, 58);
+}
+.botones {
+  height: 100px;
+  width: 150px;
+}
+.btn_numeros {
+  height: 200px;
+  display: flex;
+}
+.sino {
+  width: 50%;
+}
+.other_btn {
+  width: 50%;
+}
